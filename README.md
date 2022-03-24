@@ -1,4 +1,4 @@
-![This is an image](/app/assets/images/Readme/landingpage-ez.png)
+![This is an image](/app/assets/images/EZContractBlack.png)
 
 ## what is about?
 <p> EZ-contracts is a product that allows organizations to manage electronic agreements.
