@@ -3,7 +3,7 @@
 ## what is about?
 EZ-contracts is a product that allows organizations to manage electronic agreements.
 Who benefits from this product?
-** Company **
+<strong>Company </strong>
 - smooth business bureaucracy;
 - save space in the office storing contract in the clouds;
 - let the company focus on their core mission;
