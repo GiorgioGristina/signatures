@@ -37,17 +37,17 @@ For Acheving our goal with have to use different Gems to implement the different
   <tr>
     <td>device</td>
     <td>log-in and sign-up</td>
-    <td>Devise Gem is a flexible user authentication</td>
+    <td>Allow User to create an account on the website</td>
   </tr>
   <tr>
     <td>combine_pdf</td>
     <td>merge signature on existing pdf</td>
-    <td>CombinePDF is a nifty model, written in pure Ruby, to parse PDF files and combine (merge) them with other PDF files, watermark them or stamp them (all using the PDF file format and pure Ruby code).</td>
+    <td>Permit the signatore to merge the signature on contract</td>
   </tr>
   <tr>
     <td>pundit</td>
     <td>build the authorization system</td>
-    <td>It is to verify that the user have persmission to perform an action</td>
+    <td>It is to verify if the user is a company or individual so that they can perform different action</td>
   </tr>
   <tr>
     <td>wicked_pdf</td>
@@ -56,3 +56,25 @@ For Acheving our goal with have to use different Gems to implement the different
   </tr>
 </table>
 
+
+###the Features
+
+<p>EZ-contracts has two type of User Companies and Individuals/Signatories they have different features available. </p>
+
+
+<p>the feature for the companies are as follow: </p>
+<ul>
+  <li> press sign-Up button, clicking on the dropdown menu select company and provide email and password</li>
+  <li>once you signed-up it will be render a form where you will write the detailes of the company</li>
+  <li>You can view the list of the unsigned and signed contract that you sent to your stackholder</li>
+  <li>You can send the contract to your client pressing the plus icon on the navigation bar. it will appear a form that ask for: name, description, upload the contract and the email of the receiver </li>
+  <li>Once the receiver signed your contract you can see it in the section signed and you can download it on your computer</li> 
+</ul>
+
+<p>the feature for the individuals/signatories are as follow: </p>
+<ul>
+  <li> press sign-Up button, clicking on the dropdown menu select individual and provide email and password</li>
+  <li>once you signed-up it will be render a form where you will write your deatils and you can upload your signature that you have already create for example with <a href="https://signature-generator.com/">this website</a> </li>
+  <li>You can view the list of the unsigned and signed contract that you sent to your stackholder</li>
+  <li>You can sign the contract clicking on it and it will bring you to the page where show the name and description of it and you find a form where you will insert you first-name and last-name </li>
+</ul>
