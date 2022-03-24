@@ -1,10 +1,11 @@
 ![This is an image](/app/assets/images/EZContractBlack.png)
 
-## what is about?
+
+### what is about?
 <p> EZ-contracts is a product that allows organizations to manage electronic agreements.
 Who benefits from this product?</p>
 
-<strong> Company </strong>
+<strong> Companies </strong>
 <ul>
   <li>smooth business bureaucracy;</li>
   <li>save space in the office storing contract in the clouds;</li>
@@ -16,12 +17,19 @@ Who benefits from this product?</p>
   <li>everything safely stored in the clouds</li>
 </ul>
 
+### tach-stack
+<p>go on the website: <a href="https://signing-contr.herokuapp.com/" target="_blank">EZ-contracts</a></p>
 
-<p>checkout the website: <a href="https://signing-contr.herokuapp.com/">EZ-contracts</a></p>
 
-### tech-stack
+<h2>Company</h2>
+<h3>sign up</h3>
+<p>sign up to the website, prividing: email, password and selecting company </p>
+<img src="img_girl.jpg" alt="sign up page" >
+
 <p>Our Product has being created Using RoR framework for the back end, following the pattern MVC because is the languages where My group and I were more confident at the end of the Bootcamp for the front end side we used HTML, CSS and a little of JS.</p>
 For Acheving our goal with have to use different Gems to implement the different features:
+<p>For Acheving our goal with have to use different Gems to implement the different features:</p>
+
 
 <table>
   <tr>
@@ -57,7 +65,7 @@ For Acheving our goal with have to use different Gems to implement the different
 </table>
 
 
-###the Features
+### The Features
 
 <p>EZ-contracts has two type of User Companies and Individuals/Signatories they have different features available. </p>
 
@@ -74,7 +82,10 @@ For Acheving our goal with have to use different Gems to implement the different
 <p>the feature for the individuals/signatories are as follow: </p>
 <ul>
   <li> press sign-Up button, clicking on the dropdown menu select individual and provide email and password</li>
-  <li>once you signed-up it will be render a form where you will write your deatils and you can upload your signature that you have already create for example with <a href="https://signature-generator.com/">this website</a> </li>
+  <li>once you signed-up it will be render a form where you will write your deatils and you can upload your signature that you have already create for example with <a href="https://signature-generator.com/" target="_blank">this website</a> </li>
   <li>You can view the list of the unsigned and signed contract that you sent to your stackholder</li>
   <li>You can sign the contract clicking on it and it will bring you to the page where show the name and description of it and you find a form where you will insert you first-name and last-name </li>
 </ul>
+
+### Reflection
+### Cedits
