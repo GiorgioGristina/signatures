@@ -1,7 +1,7 @@
 ![This is an image](/app/assets/images/EZContractBlack.png)
 
 
-### what is about?
+<h2>what is about?</h2>
 <p> EZ-contracts is a product that allows organizations to manage electronic agreements.
 Who benefits from this product?</p>
 
@@ -17,14 +17,9 @@ Who benefits from this product?</p>
   <li>everything safely stored in the clouds</li>
 </ul>
 
-### tech-stack
+<h2>Tech-stack</h2>
 <p>go on the website: <a href="https://signing-contr.herokuapp.com/" target="_blank">EZ-contracts</a></p>
 
-
-<h2>Company</h2>
-<h3>sign up</h3>
-<p>sign up to the website, prividing: email, password and selecting company </p>
-<img src="img_girl.jpg" alt="sign up page" >
 
 <p>Our Product has being created Using RoR framework for the back end, following the pattern MVC because is the languages where My group and I were more confident at the end of the Bootcamp for the front end side we used HTML, CSS and a little of JS.</p>
 For Acheving our goal with have to use different Gems to implement the different features:
@@ -65,12 +60,12 @@ For Acheving our goal with have to use different Gems to implement the different
 </table>
 
 
-### The Features
 
+<h2>The Features</h2>
 <p>EZ-contracts has two type of User Companies and Individuals/Signatories they have different features available. </p>
 
 
-<p>the feature for the companies are as follow: </p>
+<p>the feature for the <strong>companies</strong> are as follow: </p>
 <ul>
   <li> press sign-Up button, clicking on the dropdown menu select company and provide email and password</li>
   <li>once you signed-up it will be render a form where you will write the detailes of the company</li>
@@ -79,7 +74,7 @@ For Acheving our goal with have to use different Gems to implement the different
   <li>Once the receiver signed your contract you can see it in the section signed and you can download it on your computer</li> 
 </ul>
 
-<p>the feature for the individuals/signatories are as follow: </p>
+<p>the feature for the <strong> individuals/signatories</strong> are as follow: </p>
 <ul>
   <li> press sign-Up button, clicking on the dropdown menu select individual and provide email and password</li>
   <li>once you signed-up it will be render a form where you will write your deatils and you can upload your signature that you have already create for example with <a href="https://signature-generator.com/" target="_blank">this website</a> </li>
@@ -87,5 +82,8 @@ For Acheving our goal with have to use different Gems to implement the different
   <li>You can sign the contract clicking on it and it will bring you to the page where show the name and description of it and you find a form where you will insert you first-name and last-name </li>
 </ul>
 
-### Reflection
-### Cedits
+
+<h2>Reflection</h2>
+
+<h2>Credits</h2>
+
