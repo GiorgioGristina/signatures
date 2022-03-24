@@ -17,7 +17,7 @@ Who benefits from this product?</p>
   <li>everything safely stored in the clouds</li>
 </ul>
 
-### tach-stack
+### tech-stack
 <p>go on the website: <a href="https://signing-contr.herokuapp.com/" target="_blank">EZ-contracts</a></p>
 
 
