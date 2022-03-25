@@ -1,5 +1,4 @@
-
-<img src="/app/assets/images/EZContractBlack.png" alt="landing page" width="100%" height="600">
+<img src="/app/assets/images/EZContractBlack.png" alt="logo" width="100%" height="600">
 
 <h2>what is about?</h2>
 <p> EZ-contracts is a product that allows organizations to manage electronic agreements.
@@ -33,27 +32,27 @@ Who benefits from this product?</p>
   <tr>
     <td>PG_search</td>
     <td>search bar</td>
-     <td>search bar to find the contracts by name or description available in the section unsigned and signed by name or description</td>
+     <td>search bar to find the contracts by name or description available in the section unsigned and signed by name or description.</td>
   </tr>
   <tr>
     <td>device</td>
     <td>log-in and sign-up</td>
-    <td>Allow User to create an account on the website</td>
+    <td>Allow User to create an account on the website.</td>
   </tr>
   <tr>
     <td>combine_pdf</td>
     <td>merge signature on existing pdf</td>
-    <td>Permit the signatore to merge the signature on contract</td>
+    <td>Permit the signatore to merge the signature on contract.</td>
   </tr>
   <tr>
     <td>pundit</td>
     <td>build the authorization system</td>
-    <td>It is to verify if the user is a company or individual so that they can perform different action</td>
+    <td>It is to verify if the user is a company or individual so that they can perform different action.</td>
   </tr>
   <tr>
     <td>wicked_pdf</td>
     <td>deal with pdf file uploaded</td>
-    <td>Wicked PDF uses the shell utility wkhtmltopdf to serve a PDF file to a user from HTML. In other words, rather than dealing with a PDF generation DSL of some sort, you simply write an HTML view as you would normally, then let Wicked PDF take care of the hard stuff.</td>
+    <td>We generate a pdf file from a template in the views (HTML) that we fill up with Erb to make the content of the files dynamic. </td>
   </tr>
 </table>
 
